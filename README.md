@@ -36,4 +36,3 @@ The diagram illustrates the detailed flow of the borrowing process, showing inte
 
 ---
 
-Feel free to reach out if you have any questions or need further clarification on the script.
